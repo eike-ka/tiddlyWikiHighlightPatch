@@ -1,5 +1,14 @@
 title: HighlightExample
 
+''Gradle'' code:
+
+```gradle
+dependencies {
+    // a dependency
+   compile "foo:bar:1.0"
+}
+```
+
 ''Javascript'' code:
 
 ```javascript
